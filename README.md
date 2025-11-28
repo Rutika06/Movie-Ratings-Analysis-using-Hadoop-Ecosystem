@@ -241,8 +241,3 @@ hdfs dfs -getmerge /user/hive/warehouse/movie_db.db/movies_by_year movies_by_yea
 - **Rating Patterns**: Discover rating distribution and user behavior
 
 
-
-
----
-
-**Note**: This is a demonstration project for learning Hadoop ecosystem tools. For production use, consider additional optimization, security measures, and error handling.
